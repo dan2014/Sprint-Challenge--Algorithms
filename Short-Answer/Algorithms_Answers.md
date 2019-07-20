@@ -1,7 +1,7 @@
 # Analysis of Algorithms Answers
 
 ## Exercise I
-a) This will run in O(n), linear, time
+a) This will run in O(n), linear, time. The `while` loop with run iteratively and dependent on a condition that `a < n^3`. By dividing the n^3 by n^2, we find that a becomes a factor n^3. This results in a being added by that factor and which is equal to n. 
 
 b)
 
